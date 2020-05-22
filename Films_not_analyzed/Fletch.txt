@@ -1,0 +1,15 @@
+
+
+
+Fletch - by Phil Alden Robinson from a draft by Andrew Bergman.  May 4, 1986 draft
+  
+<b> 
+</b>body{
+	font-family: "Courier New", Courier, monospace; font-size: 10pt;
+<b>	
+</b><b>}
+</b>
+
+
+
+

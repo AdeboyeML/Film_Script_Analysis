@@ -1,0 +1,31 @@
+
+    
+        
+        
+        
+		document.isTrellix = 1;
+		
+        Omega Man Script
+    
+    
+<b><!--
+</b>// Cache-busting LUBID bug.
+var ran = Math.round(Math.random() * 899999) + 100000;
+var lubid_string = "<img src=\"http://lubid.lycos.com/one.asp?site=members.tripod.lycos.com&ord=" + ran + "\" height=\"1\" width=\"1\">";
+document.write(lubid_string);
+<b>//-->
+</b>
+
+	
+		
+	
+		
+	
+
+	
+	E-mail this page to a friend
+	Tell me when this page is updated
+	
+
+
+        

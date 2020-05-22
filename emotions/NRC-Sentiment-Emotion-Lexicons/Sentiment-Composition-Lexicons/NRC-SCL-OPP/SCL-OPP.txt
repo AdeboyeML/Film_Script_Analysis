@@ -1,0 +1,1178 @@
+seriously great	1	R+A	17
+ridiculously happy	1	R+A	33
+amazing	1	A	100554
+pretty damn amazing	0.969	R+R+A	112
+happiness overload	0.969	N+N	60
+love	0.969	V	770553
+so unbelievable happy	0.953	R+A+A	16
+smiling	0.953	V	10050
+wonderful	0.953	A	37717
+#smile	0.953	#	57000
+happiness	0.938	N	28263
+awesome as hell	0.922	A+P+N	7
+ridiculously awesome	0.922	R+A	17
+freaking love that	0.922	V+V+D	10
+celebratory	0.891	A	186
+beautiful	0.891	A	72422
+super	0.891	R	49449
+incredibly	0.891	R	2094
+cant stop smiling	0.875	V+V+V	123
+couldn't stop smiling	0.875	V+V+V	28
+wicked excited	0.875	A+A	11
+laughing so hard	0.875	V+R+A	302
+peaceful	0.875	A	2499
+enjoying	0.875	V	16194
+handsome	0.875	A	5708
+ridiculously excited	0.859	R+A	45
+freaking amazing	0.859	R+A	110
+seriously love you	0.859	R+V+O	28
+excited	0.859	A	48749
+sexy	0.859	A	12447
+smells lovely	0.844	V+A	16
+best winter break	0.844	A+N+V	17
+so freaking excited	0.844	R+R+A	49
+smiley	0.844	A	1381
+perfect	0.844	A	37985
+achievement	0.844	N	924
+awesome	0.844	A	84954
+wonderful break	0.828	A+N	128
+happy tears	0.828	A+N	136
+sweet	0.828	A	43926
+freaking cool	0.813	R+A	36
+stress free	0.813	N+A	166
+so freaking cute	0.813	R+R+A	48
+bloody hilarious	0.813	A+A	14
+lovely	0.813	A	52388
+greatest	0.813	A	4044
+gorgeous	0.813	A	13804
+respect	0.813	V	6086
+laughing out loud	0.797	V+T+A	68
+wicked good	0.797	A+A	13
+crazy talented	0.797	A+A	31
+pleasures	0.797	N	239
+pretty	0.797	R	64341
+laughing	0.797	V	4441
+crazy in love	0.781	A+P+N	54
+stroke of luck	0.781	N+P+N	7
+words of wisdom	0.781	N+P+N	289
+wonderful rain	0.781	A+N	6
+romance	0.781	N	1516
+happy	0.781	A	916691
+pretty damn cool	0.766	R+R+A	84
+lovely shot	0.766	A+N	50
+dead gorgeous	0.766	A+A	61
+awfully nice	0.766	R+A	19
+leave a #smile	0.766	V+D+N	37
+best shit	0.766	A+N	19
+lucky	0.766	A	20358
+beauty	0.766	N	8936
+friendship	0.766	N	3926
+romantic	0.766	A	1965
+love u sososo	0.75	V+O+R	57
+christmas	0.75	^	49756
+hilarious	0.75	A	5334
+cute	0.75	A	53364
+super good break	0.734	R+A+N	89
+smell the flowers	0.734	V+D+N	36
+cancer free	0.734	N+A	33
+a good problem	0.734	D+A+N	29
+love long weekends	0.734	V+A+N	11
+long time friends	0.734	A+N+N	14
+freaking hilarious	0.734	R+A	21
+genuine	0.734	A	975
+friend	0.734	N	65534
+love the rain	0.719	V+D+N	170
+presents	0.719	V	2690
+funniest	0.719	A	977
+grand	0.719	A	6898
+good omen	0.703	A+N	36
+fashionably	0.703	R	45
+smile	0.703	V	94888
+friends	0.703	N	89106
+best	0.703	A	154634
+crazy cool	0.688	A+A	31
+love the smell	0.688	V+D+N	252
+sigh of relief	0.688	N+P+N	54
+long friendship	0.688	A+N	11
+squeaky clean	0.688	A+A	47
+hope	0.688	V	346217
+good	0.688	A	480145
+good smell	0.672	A+N	12
+nice break	0.672	A+N	504
+survivor	0.672	N	526
+heartfelt	0.672	A	255
+kind	0.672	N	25799
+angel	0.672	N	14770
+positive	0.672	A	11749
+worry free	0.656	V+A	18
+seriously interested	0.656	R+A	84
+smells like summer	0.656	V+P+N	10
+drama free	0.656	N+A	61
+cheap and good	0.656	A+&+A	13
+gems	0.656	N	446
+free	0.656	A	63904
+baby	0.656	N	74654
+promotion	0.656	N	1110
+clean	0.656	A	9008
+holiday	0.656	N	25500
+wise	0.656	A	2471
+well deserved break	0.641	R+V+V	32
+laughing my ass	0.641	V+D+N	35
+nice shot	0.641	A+N	209
+long hug	0.641	A+N	21
+faith	0.641	N	3891
+yummy	0.641	A	6844
+festive	0.641	A	1328
+great words	0.625	A+N	102
+awesome fictional weapons	0.625	A+A+N	25
+kind words	0.625	N+N	1960
+small achievement	0.625	A+N	14
+surprises	0.625	N	1657
+wisdom	0.625	N	2412
+great	0.625	A	233336
+bloody great	0.609	A+A	32
+smart	0.609	A	5792
+hug	0.609	N	12385
+fav	0.609	A	21838
+dead sexy	0.594	A+A	14
+sexy beast	0.594	A+N	66
+happy accident	0.594	A+N	14
+roses	0.594	N	6476
+birthday	0.594	N	161387
+love bug	0.578	N+N	150
+small positive thought	0.578	A+A+V	22
+smart creature	0.578	A+N	8
+love never fails	0.578	N+R+V	41
+talented	0.578	A	4364
+top	0.578	A	31179
+gold	0.578	^	5505
+luck	0.578	N	47280
+damn i'm good	0.563	!+L+A	10
+struck gold	0.563	V+A	12
+time well spent	0.563	N+R+V	59
+enjoying break	0.563	V+V	183
+wise words	0.563	A+N	367
+super hit	0.563	R+V	35
+die laughing	0.563	V+V	16
+flowers	0.563	N	3410
+fighting spirit	0.547	V+N	24
+world hunger relief	0.547	N+N+N	9
+nice bodies	0.547	A+N	10
+solved the problem	0.547	V+D+N	26
+enjoying the rain	0.547	V+D+N	29
+relief	0.547	N	932
+relax	0.547	V	5794
+interest	0.547	N	2116
+afternoon	0.547	N	17348
+powerful	0.547	A	1438
+summer	0.547	N	27380
+hopeless romantic	0.531	A+A	122
+debt free	0.531	N+A	38
+boost	0.531	V	1080
+well	0.531	R	192670
+authentic	0.531	A	919
+smell the roses	0.516	V+D+N	34
+ego boost	0.516	N+V	24
+pretty darn good	0.516	R+A+A	93
+darn right	0.516	A+A	15
+church	0.516	N	9153
+honestly	0.516	R	7647
+promise	0.516	V	11067
+young	0.516	A	26016
+deserved	0.516	V	2904
+popular	0.516	A	4808
+will mean alot	0.5	V+V+N	155
+funniest shit	0.5	A+N	15
+break dance	0.5	V+N	21
+nice cold beer	0.5	A+A+N	23
+sounding good	0.5	V+A	45
+dark chocolate	0.5	A+N	404
+epic	0.5	A	12867
+arrived	0.5	V	17835
+child	0.5	N	4690
+no problem dear	0.484	D+N+N	41
+mean a lottttt	0.484	V+D+N	86
+mad props	0.484	A+N	20
+smell yummy	0.484	V+A	9
+long holiday	0.484	A+N	130
+guilty pleasures	0.484	A+N	38
+lazy afternoon	0.484	A+N	74
+the festive break	0.484	D+A+N	22
+dreams	0.484	N	19261
+fans	0.484	N	25882
+awareness	0.484	N	711
+chocolate	0.484	N	17714
+cool	0.484	A	60319
+daughter	0.484	N	6217
+definitely	0.484	R	18537
+sing	0.484	V	10597
+care	0.484	N	32735
+nice long walk	0.469	A+A+N	29
+worth the wait	0.469	A+D+N	561
+weekends	0.469	N	2268
+nice	0.469	A	137612
+ahead	0.469	R	16531
+dear	0.469	N	38098
+sincere	0.469	A	605
+music	0.469	N	59292
+sun	0.469	N	18769
+cross my heart	0.453	V+D+N	32
+new hair cut	0.453	A+N+N	197
+a lovely break	0.453	D+A+N	70
+live	0.453	V	54081
+walk	0.453	V	13536
+dearly	0.453	R	1586
+warm	0.453	A	12447
+real	0.453	A	36911
+indeed	0.453	R	7938
+wonder	0.453	V	8341
+hidden gems	0.438	A+N	19
+sweet and sour	0.438	A+&+A	57
+tired but happy	0.438	A+&+A	116
+powerful force	0.438	A+N	11
+nervous and excited	0.438	A+&+V	54
+honey	0.438	N	7205
+dream	0.438	N	60621
+art	0.438	N	11048
+patient	0.438	A	1979
+puppy	0.438	N	5203
+highly	0.438	R	1977
+slow dance	0.422	A+N	52
+you've worked hard	0.422	L+V+A	41
+happy mistakes	0.422	A+N	36
+relax and chill	0.422	V+&+V	18
+money well spent	0.422	N+R+V	36
+can die happy	0.422	V+V+A	37
+donated blood	0.422	V+N	28
+kind stranger	0.422	A+N	22
+finally stopped raining	0.422	R+V+V	8
+like	0.422	P	340888
+donated	0.422	V	723
+crazy stupid love	0.406	A+A+N	19
+dinner	0.406	N	25655
+new	0.406	A	949182
+right	0.406	R	94476
+proven	0.406	V	340
+shooting star	0.391	N+N	530
+popular demand	0.391	A+N	56
+limited time offer	0.391	A+N+N	15
+honey and lemon	0.391	N+&+N	47
+dead good	0.391	A+A	10
+productive	0.391	A	3858
+clear	0.391	A	4524
+relieve your stress	0.375	V+D+N	164
+super chill	0.375	R+A	88
+lost then found	0.375	V+R+V	6
+completely	0.375	R	6298
+props	0.375	N	727
+solved	0.375	V	728
+feedback	0.375	N	4177
+rising	0.375	V	1333
+relieve	0.375	V	349
+look	0.375	V	75112
+committed	0.375	V	434
+agree	0.375	V	13031
+problem solved	0.359	N+V	204
+tax refund	0.359	N+N	30
+admit	0.359	V	2565
+afford	0.359	V	3571
+celebratory gunfire	0.344	N+N	6
+nice and cold	0.344	A+&+A	22
+chocolate overload	0.344	N+N	15
+coffee break	0.344	N+N	1647
+love being alone	0.344	V+V+R	23
+nap	0.344	N	7581
+heart	0.344	N	35166
+dance	0.344	N	13353
+long rest	0.328	A+N	15
+baby kick	0.328	N+N	25
+sneak peek	0.328	N+N	527
+continue	0.328	V	7105
+star	0.328	N	12301
+time	0.328	N	264640
+world	0.328	N	95309
+hard cider	0.313	A+N	23
+wireless adapter	0.313	N+N	16
+top gun	0.313	A+N	54
+little	0.313	A	73585
+shopping	0.313	N	15216
+attachment	0.313	N	139
+author	0.313	N	1448
+found	0.313	V	31589
+fair	0.313	A	8422
+absolute	0.313	A	3472
+beautiful mess	0.297	A+N	24
+#finallyinthehotel #exhausted	0.297	#+#	37
+top down	0.297	N+P	61
+warm rain	0.297	A+N	7
+foundation	0.297	N	1197
+peek	0.297	N	1054
+never too hot	0.281	R+R+A	20
+damn straight	0.281	!+A	120
+just teasing you	0.281	R+V+O	26
+dark and handsome	0.281	A+&+A	20
+cancer awareness	0.281	N+N	14
+long but productive	0.281	A+&+A	10
+late night dinner	0.281	A+N+N	21
+slow song	0.281	A+N	11
+quotes	0.281	N	2099
+still	0.281	R	139665
+food	0.281	N	29689
+truly	0.281	R	8258
+shape	0.281	N	1836
+money	0.281	N	23687
+rest	0.281	N	29055
+pillow	0.281	N	1688
+steady	0.281	A	528
+truth	0.281	N	5435
+funky music	0.266	A+N	11
+lucky devil	0.266	A+N	9
+crooked smile	0.266	A+N	12
+back	0.266	R	360041
+personality	0.266	N	1809
+white	0.266	A	13799
+transport	0.266	N	634
+interested	0.266	A	8004
+try	0.266	V	48548
+day	0.266	N	434756
+collecting	0.266	V	1256
+great capture	0.25	A+N	13
+author unknown	0.25	N+A	10
+crisis averted	0.25	N+V	28
+good long look	0.25	A+A+N	20
+cream	0.25	N	11095
+song	0.25	N	50805
+paths	0.25	N	385
+spirit	0.25	N	4083
+vocabulary	0.25	N	287
+feel	0.25	V	117363
+existence	0.25	N	1110
+stroll	0.25	N	501
+fav fight	0.234	N+N	20
+never too young	0.234	R+R+A	15
+#wantit	0.234	#	44
+too	0.234	R	271572
+even	0.234	R	80577
+extra	0.234	A	10177
+finally	0.234	R	50611
+actually	0.234	R	39099
+game	0.234	N	47484
+store	0.234	N	13971
+just couldn't resist	0.219	R+V+V	27
+excited but nervous	0.219	V+&+A	12
+worth fighting	0.219	A+V	79
+late nap	0.219	A+N	10
+late breakfast	0.219	A+N	118
+bad for laughing	0.219	A+P+V	22
+ice cold beer	0.219	N+A+N	25
+necessarily	0.219	R	429
+credit	0.219	N	3911
+south	0.219	^	5873
+knight	0.219	N	1248
+comments	0.219	N	4034
+today	0.219	N	236566
+nite	0.219	N	5777
+hair	0.219	N	39463
+fit	0.219	V	7121
+more	0.219	A	183715
+#dog	0.219	#	8388
+spoiler free	0.203	N+A	12
+hot black coffee	0.203	A+A+N	17
+busy holiday	0.203	A+N	15
+full game	0.203	A+N	60
+spent the afternoon	0.203	V+D+N	70
+holiday madness	0.203	N+N	15
+journey	0.203	N	4897
+start	0.203	V	81262
+feeling	0.203	V	66118
+mild	0.203	A	483
+main	0.203	A	17988
+score	0.203	N	3448
+eye	0.203	N	8301
+lottttt	0.203	N	103
+cancer foundation	0.188	N+N	15
+wild at heart	0.188	A+P+N	12
+study break	0.188	N+V	44
+full postcode	0.188	A+N	52
+live shot	0.188	A+N	17
+frozen dinner	0.188	A+N	5
+weight loss journey	0.188	N+N+N	24
+what lies ahead	0.188	O+N+R	39
+wireless	0.188	N	892
+settle	0.188	V	1394
+worked	0.188	V	7126
+reality	0.188	N	5327
+worth	0.188	A	15652
+drive	0.188	V	12548
+silly	0.188	A	4636
+post	0.188	N	34598
+busy day ahead	0.172	A+N+R	147
+late christmas presents	0.172	A+^+V	18
+hot self shot	0.172	A+N+N	773
+breaking free	0.172	V+A	22
+game console	0.172	N+N	19
+sing with braces	0.172	V+P+N	28
+good slap	0.172	A+N	9
+planning	0.172	V	6280
+eat	0.172	V	24595
+alot	0.172	N	6693
+postcode	0.172	^	216
+paint	0.172	V	3732
+super long hair	0.156	R+A+N	14
+seriously hope	0.156	R+V	62
+peaceful protest	0.156	A+N	10
+long lost friends	0.156	A+A+N	17
+refund	0.156	N	652
+dog	0.156	N	16450
+gown	0.156	N	822
+study	0.156	N	10690
+let's	0.156	L	31508
+wasn't even drunk	0.141	V+R+A	8
+good at begging	0.141	A+P+V	14
+coffee	0.141	N	165393
+actual	0.141	A	2962
+#finallyinthehotel	0.141	#	37
+black cherry	0.125	A+A	35
+new issue	0.125	A+N	95
+heartfelt condolences	0.125	A+N	22
+top left	0.125	A+N	88
+personality quiz	0.125	N+N	11
+damn well	0.125	!+!	88
+year	0.125	N	825567
+job	0.125	N	30790
+breakfast	0.125	N	15834
+visit	0.125	V	18529
+just	0.125	R	446218
+fast	0.125	A	13871
+plssss	0.125	V	419
+help	0.125	V	74878
+really	0.125	R	190147
+code	0.125	N	11388
+sense of smell	0.109	N+P+N	35
+cool me down	0.109	V+O+T	8
+ups	0.109	N	6773
+open	0.109	V	49127
+conscience	0.109	N	243
+phone	0.109	N	53182
+major	0.109	A	3991
+card	0.109	N	11009
+please	0.109	V	456205
+responsibility	0.109	N	400
+freudian slip	0.094	A+N	31
+back from hospital	0.094	R+P+N	31
+my new addiction	0.094	D+A+N	22
+a crazy year	0.094	D+A+N	67
+self	0.094	N	8380
+night	0.094	N	162493
+moment	0.094	N	29227
+weight	0.094	N	5382
+bored	0.094	A	21339
+talk	0.094	V	37846
+effort	0.094	N	3905
+evening	0.094	N	22467
+customer	0.094	N	2989
+degree	0.094	N	1962
+emotional attachment	0.078	A+N	14
+black coffee	0.078	A+N	1242
+a long nap	0.078	D+A+N	61
+level	0.078	N	5582
+hot	0.078	A	35502
+football	0.078	N	8125
+slip	0.078	V	845
+straight	0.078	R	6188
+ever	0.078	R	66881
+authentic black	0.063	A+A	75
+one hit wonder	0.063	$+V+V	12
+rocks	0.063	V	2937
+cherry	0.063	A	2317
+sense	0.063	N	6210
+plain	0.063	A	1269
+sensitive	0.063	A	855
+spare	0.063	A	3573
+a nose job	0.047	D+N+N	23
+loud and clear	0.047	A+&+A	53
+fashionably late	0.047	R+A	30
+want it badly	0.047	V+O+R	15
+raining	0.047	V	6670
+unbelievable	0.047	A	715
+service	0.047	N	8848
+got	0.047	V	186171
+blind faith	0.031	A+N	16
+super sick start	0.031	R+A+V	51
+agree to disagree	0.031	V+P+V	189
+junk food	0.031	N+N	494
+lost art	0.031	A+N	18
+young blood	0.031	A+N	57
+public	0.031	A	4048
+constant	0.031	A	935
+duper	0.031	R	1189
+computer	0.031	N	60583
+offer	0.031	N	4943
+plane	0.031	N	4748
+count	0.031	V	6018
+free fall	0.016	A+N	28
+leave feedback	0.016	V+N	41
+working	0.016	V	44609
+averted	0.016	V	50
+cider	0.016	N	738
+deal	0.016	N	7592
+following	0.016	V	76328
+like a stranger	0	P+D+N	20
+long journey	0	A+N	137
+left to help	0	V+P+V	21
+back down south	0	R+R+R	25
+stroll down	0	N+P	22
+emotional fair	0	A+N	5
+extra shot	0	A+N	33
+true	0	A	53900
+want	0	V	193951
+latest	0	A	7502
+ice	0	N	15803
+rules	0	N	3877
+im stuck working	-0.016	L+V+V	6
+count down	-0.016	V+T	529
+well im sorry	-0.016	!+L+A	12
+all nite long	-0.016	D+N+A	86
+year gone	-0.016	N+V	62
+worth the pain	-0.016	A+D+N	39
+spent	-0.016	V	11769
+funky	-0.016	A	683
+smell	-0.016	V	4452
+console	-0.016	N	1575
+please leave comments	-0.031	V+V+N	8
+augmented reality	-0.031	A+N	24
+latest issue	-0.031	A+N	52
+accidentally open	-0.031	R+V	6
+leave it open	-0.031	V+O+V	12
+squeaky	-0.031	A	139
+pick	-0.031	V	13913
+full	-0.031	A	31912
+passed	-0.031	V	7284
+slow and steady	-0.047	A+&+A	58
+busy working	-0.047	A+V	144
+to crack open	-0.047	P+V+V	29
+sorry love	-0.047	A+N	215
+smells like paint	-0.047	V+P+N	100
+again	-0.047	R	103148
+beer	-0.047	N	8649
+nail	-0.047	N	2813
+sounding	-0.047	V	612
+fictional	-0.047	A	270
+winter	-0.047	N	10425
+going	-0.047	V	166532
+braces	-0.047	N	1136
+news	-0.047	N	25585
+pick me plssss	-0.063	V+O+V	47
+latest shoot	-0.063	A+N	30
+please never forget	-0.063	V+R+V	40
+stupid sun	-0.063	A+N	15
+badly want one	-0.063	R+V+$	14
+wild child	-0.063	A+N	43
+nose	-0.063	N	9291
+hidden	-0.063	V	1023
+small	-0.063	A	11207
+cheap	-0.063	A	3278
+longer	-0.063	R	7871
+word	-0.063	N	15108
+thought	-0.063	V	40284
+seriously	-0.063	R	13987
+looks	-0.063	V	38067
+teasing	-0.063	V	562
+spare tire	-0.078	N+N	10
+goes too fast	-0.078	V+R+A	22
+well gutted	-0.078	!+V	19
+year passed by	-0.078	N+V+P	7
+freudian	-0.078	A	44
+loud	-0.078	A	4642
+split	-0.078	V	1489
+bug	-0.078	N	3255
+work	-0.078	N	158300
+so	-0.078	R	851163
+fair warning	-0.094	A+N	45
+stress level	-0.094	N+N	27
+crazy talk	-0.094	A+N	24
+busy year	-0.094	A+N	157
+late evening	-0.094	A+N	38
+rest my case	-0.094	V+D+N	57
+pillow fight	-0.094	N+N	33
+still no word	-0.094	R+D+N	52
+long	-0.094	A	70726
+said	-0.094	V	33745
+slow	-0.094	A	8391
+wild	-0.094	A	3326
+adapter	-0.094	N	288
+ego	-0.094	N	1119
+goes	-0.094	V	17245
+spent my money	-0.109	V+D+N	17
+beauty is pain	-0.109	N+V+N	15
+weird dream	-0.109	A+N	63
+paths will cross	-0.109	N+V+V	37
+highly doubt	-0.109	R+V	114
+tire	-0.109	N	1200
+words	-0.109	N	17475
+dust	-0.109	N	1037
+augmented	-0.109	A	27
+though	-0.109	P	68220
+missed	-0.109	V	26177
+teething	-0.109	V	183
+bills	-0.109	N	1322
+best fight	-0.125	A+N	28
+just a bug	-0.125	R+D+N	13
+bitter sweet	-0.125	A+A	125
+settle down	-0.125	V+T	188
+slow drive	-0.125	V+N	7
+frozen	-0.125	A	3498
+cross	-0.125	V	4094
+hit us back	-0.141	V+O+R	37
+stinking hot	-0.141	A+A	9
+horror fans	-0.141	^+N	1103
+nice try though	-0.141	A+V+P	23
+no sour cream	-0.141	D+N+N	7
+extra slow	-0.141	A+A	8
+main issue	-0.141	A+N	17
+lemon	-0.141	N	1957
+cold	-0.141	A	28854
+creature	-0.141	N	432
+down	-0.141	T	56917
+stopped	-0.141	V	5254
+fighting fit	-0.156	V+N	12
+you poor baby	-0.156	O+A+N	15
+completely missed	-0.156	R+V	62
+drama	-0.156	N	6503
+closed	-0.156	V	6449
+strains	-0.156	N	29
+nervous	-0.156	A	3836
+supposed to help	-0.172	A+P+V	40
+fragile heart	-0.172	A+N	8
+lone survivor	-0.172	^+^	42
+collecting dust	-0.172	V+N	37
+pretty rubbish	-0.172	R+A	30
+tax	-0.172	N	1324
+swallow	-0.172	V	484
+away	-0.172	R	38816
+froze	-0.172	V	528
+teething baby	-0.188	A+N	16
+dark knight gown	-0.188	A+N+N	111
+perfect storm	-0.188	A+N	32
+strange	-0.188	A	2642
+unknown	-0.188	A	734
+kick	-0.188	V	6076
+cut	-0.188	V	11055
+black	-0.188	A	19655
+throw	-0.188	V	4523
+zombie	-0.188	N	1529
+accidentally	-0.188	R	2277
+protest	-0.188	N	320
+good lie	-0.203	A+N	36
+sincere condolences	-0.203	A+N	26
+cheat code	-0.203	V+N	11
+overboard	-0.203	R	120
+question	-0.203	N	11398
+blues	-0.203	N	2301
+spoiler	-0.203	N	831
+crooked	-0.203	A	173
+emotional	-0.203	A	2887
+poor vocabulary	-0.219	A+N	7
+rude fans	-0.219	A+N	7
+pushed back	-0.219	V+R	110
+forget to smile	-0.219	V+P+V	534
+please im begging	-0.219	V+L+V	76
+phone doesn't work	-0.219	N+V+V	64
+damn	-0.219	!	29928
+lone	-0.219	A	306
+pee	-0.219	V	1216
+stranger	-0.219	N	1551
+quiz	-0.219	N	2982
+liquor	-0.219	N	546
+smells	-0.219	V	2271
+football addict	-0.234	N+N	21
+quit working	-0.234	V+V	27
+liquor store	-0.234	N+N	101
+incredibly slow	-0.234	R+A	13
+let's forget	-0.234	L+V	35
+what's wrong baby	-0.234	L+A+N	18
+just hang in	-0.234	R+V+P	32
+capture	-0.234	V	1300
+chill	-0.234	V	9166
+late	-0.234	A	35727
+fall	-0.234	V	13169
+#expensive	-0.234	#	79
+like zombie	-0.25	P+N	14
+cold afternoon	-0.25	A+N	30
+phone just died	-0.25	N+R+V	44
+urgent	-0.25	A	576
+leave	-0.25	V	29714
+fussy	-0.25	A	147
+case	-0.25	N	10691
+begging	-0.25	V	1540
+ridiculously	-0.25	R	670
+left	-0.25	V	37057
+super dark	-0.266	R+A	15
+achy breaky heart	-0.266	A+N+N	15
+a little overboard	-0.266	D+A+A	7
+low level	-0.266	A+N	44
+little grunt	-0.266	A+N	39
+hate to admit	-0.266	V+P+V	40
+strange dreams	-0.266	A+N	19
+mess	-0.266	N	4052
+pushed	-0.266	V	715
+storm	-0.266	N	3339
+planning on leaving	-0.281	V+P+V	10
+odd sense	-0.281	A+N	6
+miss working	-0.281	V+V	166
+continue to fight	-0.281	V+P+V	7
+stupid romance	-0.281	A+N	7
+sick of working	-0.281	A+P+V	19
+tired	-0.281	A	31469
+busy	-0.281	A	27655
+rain	-0.281	N	17704
+struck	-0.281	V	402
+force	-0.281	V	2803
+resist	-0.281	V	1231
+low	-0.281	A	6873
+weed	-0.281	N	1593
+low back	-0.297	A+N	12
+dinner alone	-0.297	N+R	27
+kind of crazy	-0.297	N+P+A	32
+throw rocks	-0.297	V+V	19
+like a hurricane	-0.297	P+D+N	25
+sad but true	-0.297	A+&+A	377
+working out alone	-0.297	V+T+R	10
+crazy	-0.297	A	19666
+barely	-0.297	R	3147
+sigh	-0.297	V	7519
+demand	-0.297	N	1040
+wait	-0.297	V	103113
+odd	-0.297	A	1918
+back pain	-0.313	N+N	335
+fallen angel	-0.313	V+^	17
+found the debris	-0.313	V+D+N	12
+main worry	-0.313	N+V	8
+dearly missed	-0.313	R+V	29
+hope i'm wrong	-0.313	V+L+A	38
+lack	-0.313	N	2582
+stop	-0.313	V	39111
+ignoring	-0.313	V	1791
+forget	-0.313	V	26215
+sinks	-0.313	V	75
+messed	-0.313	V	2412
+sososo	-0.313	R	136
+bodies	-0.313	N	1031
+boring quotes	-0.328	A+N	26
+not necessarily sad	-0.328	R+R+A	7
+split personality	-0.328	N+N	16
+white lies	-0.328	A+N	34
+sensitive issue	-0.328	A+N	9
+super slow	-0.328	R+A	90
+miss my puppy	-0.328	V+D+N	72
+years	-0.328	N	96554
+gun	-0.328	N	2924
+issue	-0.328	N	4785
+hang	-0.328	V	11616
+breaky	-0.328	N	150
+computer just froze	-0.344	N+R+V	13
+credit card bills	-0.344	N+N+N	12
+stop following posers	-0.344	V+V+N	46
+store was closed	-0.344	N+V+A	9
+major case	-0.344	A+N	15
+against	-0.344	P	6156
+disagree	-0.344	V	973
+freaking	-0.344	R	4632
+weird	-0.344	A	10978
+debris	-0.344	N	303
+like im invisible	-0.359	P+L+A	32
+hard to fit	-0.359	A+P+V	17
+miss the sun	-0.359	V+D+N	109
+fussy baby	-0.359	A+N	10
+poor little baby	-0.359	A+A+N	35
+stopped working again	-0.359	V+V+R	12
+losing interest	-0.359	V+N	19
+impossible dream	-0.359	A+N	19
+invisible	-0.359	A	1288
+stuck	-0.359	V	9790
+cable	-0.359	N	2436
+hospital	-0.359	N	7227
+back hurts	-0.375	N+V	633
+hospital visit	-0.375	N+V	16
+best revenge	-0.375	A+N	70
+sore	-0.375	A	12803
+doubt	-0.375	N	5114
+crack	-0.375	N	9317
+donkey	-0.375	N	326
+supposed	-0.375	A	7531
+bad sun	-0.391	A+N	12
+missing	-0.391	V	22295
+sad	-0.391	A	94162
+broken	-0.391	V	10382
+coughing	-0.391	V	1097
+warning	-0.391	N	1399
+loner	-0.391	N	404
+barely afford	-0.406	R+V	14
+stupid wisdom	-0.406	A+N	17
+missed breakfast	-0.406	V+N	21
+hot mess	-0.406	A+N	99
+mild headache	-0.406	A+N	6
+want to steal	-0.406	V+P+V	40
+smart ass	-0.406	A+N	88
+sadder	-0.406	A	250
+fake	-0.406	A	6535
+bad	-0.406	A	82441
+please stop ignoring	-0.422	V+V+V	17
+break ups	-0.422	V+N	45
+really sore back	-0.422	R+A+N	6
+sorry honey	-0.422	A+N	77
+back is sore	-0.422	N+V+A	17
+post holiday blues	-0.422	N+N+N	18
+truly missed	-0.422	R+V	14
+headache	-0.422	N	8759
+debt	-0.422	N	422
+impossible	-0.422	A	4585
+tears	-0.422	N	4840
+burns	-0.422	V	619
+shameless	-0.422	A	465
+fallen	-0.422	V	1285
+wrong	-0.422	A	21362
+problem	-0.422	N	21332
+wonder what's wrong	-0.438	V+L+A	11
+broke my promise	-0.438	V+D+N	8
+breaking the rules	-0.438	V+D+N	17
+still doesn't work	-0.438	R+V+V	66
+cable stopped working	-0.438	N+V+V	9
+sour	-0.438	A	850
+lost	-0.438	V	33630
+baby is sick	-0.453	N+V+A	130
+hate shopping	-0.453	V+N	47
+happy birthday loser	-0.453	A+N+N	17
+lost my money	-0.453	V+D+N	11
+weapons	-0.453	N	276
+wound	-0.453	N	339
+sneak	-0.453	V	1708
+lazy	-0.453	A	7889
+hit	-0.453	V	23875
+omen	-0.453	N	148
+limited	-0.453	A	2058
+break	-0.453	N	30319
+wrong love	-0.469	A+N	31
+can't even swallow	-0.469	V+R+V	13
+hard to like	-0.469	A+P+V	16
+eat my words	-0.469	V+D+N	12
+#expensive #wantit #sad	-0.469	#+#+#	17
+just said goodbye	-0.469	R+V+!	84
+sorry you're bored	-0.469	A+L+A	57
+hunger	-0.469	N	1398
+nuclear	-0.469	A	325
+miss	-0.469	V	153136
+issues	-0.469	N	4328
+achy	-0.469	A	264
+rude	-0.469	A	3595
+sorry	-0.469	A	96687
+condolences	-0.469	N	1209
+gone	-0.469	V	20517
+bummed	-0.469	A	2690
+steal	-0.469	V	2002
+planning against us	-0.484	V+P+O	12
+well that sucks	-0.484	!+O+V	84
+back strains	-0.484	N+N	5
+like a donkey	-0.484	P+D+N	9
+posers	-0.484	N	112
+fear	-0.484	N	3163
+worry	-0.484	V	15411
+dreading	-0.484	V	1150
+shameless self promotion	-0.5	A+N+N	19
+silly question	-0.5	A+N	57
+urgent care	-0.5	A+N	102
+bad score	-0.5	A+N	10
+beast	-0.5	N	1980
+breaking	-0.5	V	4723
+darn	-0.5	A	2553
+wicked	-0.5	A	2134
+shot	-0.5	N	10576
+nasty hot	-0.516	A+A	6
+completely messed	-0.516	R+V	14
+truly broke	-0.516	R+A	8
+in bad shape	-0.516	P+A+N	23
+refuse responsibility	-0.516	V+N	8
+#exhausted	-0.516	#	5361
+hard	-0.516	A	43400
+drunk	-0.516	A	7453
+bummer	-0.516	!	2375
+poor	-0.516	A	22116
+broke	-0.516	V	13468
+dog found abandoned	-0.531	N+V+V	16
+friends left me	-0.531	N+V+O	17
+nail just broke	-0.531	N+R+V	14
+actual tears	-0.531	A+N	18
+miss my baby	-0.531	V+D+N	735
+shoot	-0.531	N	6881
+scary	-0.531	A	4836
+unusable	-0.531	A	73
+lack of food	-0.547	N+P+N	13
+a genuine loner	-0.547	D+A+N	8
+love hurts	-0.547	N+V	51
+like i'm crazy	-0.547	P+L+A	14
+grunt	-0.547	N	130
+blind	-0.547	A	1504
+gunfire	-0.547	N	20
+hurricane	-0.547	N	337
+alone	-0.547	R	17468
+stinking	-0.547	A	181
+leaving	-0.547	V	13387
+never	-0.547	R	88912
+missing church today	-0.563	V+N+N	8
+sad day indeed	-0.563	A+N+R	30
+worth dying	-0.563	V+V	17
+want to cry	-0.563	V+P+V	946
+open wound	-0.563	A+N	13
+fake money	-0.563	A+N	13
+real problem	-0.563	A+N	48
+sad smiley	-0.563	A+A	11
+homeless heart	-0.563	A+N	6
+bloody	-0.563	A	4551
+disappointing	-0.563	A	1212
+problems	-0.563	N	5980
+injury	-0.563	N	1005
+accident	-0.563	N	2348
+my sick friend	-0.578	D+A+N	25
+true and sad	-0.578	A+&+A	9
+pretty disappointing	-0.578	R+A	26
+just been sick	-0.578	R+V+A	22
+fragile	-0.578	A	595
+jealous	-0.578	A	9971
+boring	-0.578	A	10333
+stress	-0.578	N	5309
+bother	-0.578	V	6731
+arrived broken	-0.594	V+V	10
+a bad deal	-0.594	D+A+N	13
+real sad	-0.594	R+A	95
+scary dream	-0.594	A+N	43
+headache is back	-0.594	N+V+R	23
+like a villain	-0.594	P+D+N	23
+incredibly sad	-0.594	R+A	108
+hate surprises	-0.594	V+N	10
+damn job	-0.594	A+N	21
+smells like weed	-0.594	V+P+N	13
+might actually cry	-0.594	V+R+V	12
+right eye hurts	-0.594	A+N+V	7
+hate public transport	-0.594	V+A+N	13
+hurt	-0.594	V	14178
+quit	-0.594	V	3150
+major suckage	-0.609	A+N	5
+lonely new years	-0.609	A+A+N	15
+my heart hurts	-0.609	D+N+V	231
+fight	-0.609	V	7163
+dark	-0.609	A	8445
+crap	-0.609	N	8091
+stupid	-0.609	A	14639
+junk	-0.609	N	1154
+lies	-0.609	N	1546
+dread going back	-0.625	V+V+R	11
+my poor puppy	-0.625	D+A+N	59
+losing faith	-0.625	V+N	20
+luck is gone	-0.625	N+V+V	50
+ignoring my existence	-0.625	V+D+N	127
+homeless	-0.625	A	1052
+slap	-0.625	V	1110
+losses	-0.625	N	210
+gutted	-0.625	V	3207
+lonely	-0.625	A	5573
+dumped	-0.625	V	435
+plane wreckage found	-0.641	N+N+V	11
+guilty conscience	-0.641	A+N	18
+like a failure	-0.641	P+D+N	38
+back injury	-0.641	N+N	24
+having major issues	-0.641	V+A+N	12
+super duper sad	-0.641	R+R+A	12
+shooting	-0.641	V	3402
+suck	-0.641	V	8819
+madness	-0.641	N	1152
+fail	-0.641	V	6624
+mean	-0.641	V	86457
+truly gone	-0.656	R+A	8
+worst luck	-0.656	A+N	112
+just looks wrong	-0.656	R+V+A	15
+grand theft	-0.656	A+N	118
+poor effort	-0.656	A+N	7
+lost respect	-0.656	V+V	18
+no longer friends	-0.656	R+A+N	31
+hurts even more	-0.656	V+R+A	22
+completely unusable	-0.656	R+A	6
+won't even bother	-0.656	V+R+V	8
+just so sad	-0.656	R+R+A	158
+abandoned	-0.656	V	642
+bitter	-0.656	A	2114
+overload	-0.656	N	850
+addiction	-0.656	N	1057
+mistakes	-0.656	N	1703
+hate dreams	-0.672	V+N	15
+hate money	-0.672	V+N	20
+mean friends	-0.672	V+N	13
+real bummer	-0.672	A+N	30
+lie	-0.672	V	4865
+garbage	-0.672	N	641
+loss	-0.672	N	3818
+crushed	-0.672	V	714
+feel like garbage	-0.688	V+P+N	12
+new crisis	-0.688	A+N	6
+fake friends	-0.688	A+N	224
+food poisoning	-0.688	N+N	390
+my heart stopped	-0.688	D+N+V	22
+fighting	-0.688	V	4699
+cry	-0.688	V	18446
+losing	-0.688	V	4852
+addict	-0.688	N	928
+blood	-0.688	N	4544
+stroke	-0.688	N	480
+nightmare	-0.688	N	1880
+the worst dream	-0.703	D+A+N	58
+heart sinks	-0.703	N+V	18
+absolute mess	-0.703	A+N	7
+feel like crying	-0.703	V+P+V	413
+im heart broken	-0.703	L+N+V	15
+cancer	-0.703	N	3383
+mad	-0.703	A	11793
+sucks	-0.703	V	20296
+rubbish	-0.703	A	1747
+loser	-0.703	N	1802
+shame	-0.703	N	7093
+really bad dream	-0.719	R+A+N	22
+absolute nightmare	-0.719	A+N	7
+horrible daughter	-0.719	A+N	6
+love sucks	-0.719	V+V	21
+dreading work today	-0.719	V+N+N	11
+no money left	-0.719	D+N+V	21
+bleeds	-0.719	V	85
+awfully	-0.719	R	510
+fails	-0.719	V	1221
+lost my job	-0.734	V+D+N	52
+still won't work	-0.734	R+V+N	22
+just got dumped	-0.734	R+V+V	26
+you're just jealous	-0.734	L+R+A	38
+worst customer service	-0.734	A+N+N	10
+bad dreams	-0.734	A+N	222
+worst dream ever	-0.734	A+N+R	45
+great loss	-0.734	A+N	46
+absolute garbage	-0.734	A+N	12
+hurts	-0.734	V	13986
+stolen	-0.734	V	1382
+hate	-0.734	V	58108
+shit	-0.734	N	32194
+ass	-0.734	N	17667
+sick	-0.734	A	37670
+crying	-0.734	V	9619
+danger	-0.734	N	808
+great shame	-0.75	A+N	9
+losing hope	-0.75	V+N	221
+hate working weekends	-0.75	V+V+N	10
+bad luck	-0.75	A+N	746
+heart problems	-0.75	N+N	23
+coughing fit	-0.75	N+V	38
+definitely sick	-0.75	R+A	16
+grim	-0.75	A	286
+upsets	-0.75	V	269
+pissed	-0.75	V	3512
+villain	-0.75	N	242
+food posioning	-0.766	N+N	6
+hope is lost	-0.766	N+V+A	15
+refuse	-0.766	V	1076
+nasty	-0.766	A	2157
+revenge	-0.766	N	1012
+cheat	-0.766	V	907
+theft	-0.766	N	241
+hopeless	-0.766	A	763
+dread	-0.766	V	392
+attack	-0.766	N	3127
+horrible truth	-0.781	A+N	9
+great sadness	-0.781	A+N	8
+rising nuclear danger	-0.781	V+A+N	9
+super headache	-0.781	A+N	10
+no longer care	-0.781	R+R+V	16
+feeling pretty sick	-0.781	V+R+A	11
+sad news indeed	-0.781	A+N+R	17
+horrible friend	-0.781	A+N	22
+pretty grim	-0.781	R+A	15
+pain	-0.781	N	13454
+failed	-0.781	V	3829
+hurting	-0.781	V	2456
+job losses	-0.797	N+N	9
+major pain	-0.797	A+N	23
+heart breaking moment	-0.797	N+V+N	10
+even more depressed	-0.797	R+R+A	12
+smells like pee	-0.797	V+P+N	7
+my friends suck	-0.797	D+N+V	18
+greatest fear	-0.797	A+N	39
+worst	-0.797	A	12080
+depressed	-0.797	A	3142
+#sad	-0.797	#	20952
+heart pain	-0.813	N+N	11
+hard to live	-0.813	A+P+V	33
+plain sad	-0.813	A+A	12
+super bummed	-0.813	R+A	121
+just pissed me	-0.813	R+V+O	13
+lost a child	-0.813	V+D+N	12
+suckage	-0.813	N	39
+proven guilty	-0.828	V+A	16
+super sad	-0.828	R+A	454
+cancer patient	-0.828	N+N	21
+3rd degree burns	-0.828	A+N+N	11
+hurts like hell	-0.828	V+P+N	157
+breaking my heart	-0.828	V+D+N	357
+just passed away	-0.828	R+V+R	92
+just upsets me	-0.828	R+V+O	6
+heart is broken	-0.828	N+V+A	183
+heart is breaking	-0.844	N+V+V	108
+epic fail	-0.844	A+N	427
+even sadder	-0.844	R+A	63
+money stolen	-0.844	N+V	9
+constant pain	-0.844	A+N	12
+major headache	-0.844	A+N	164
+badly	-0.844	R	4681
+horrible	-0.844	A	9651
+poisoning	-0.844	N	500
+hurt like crazy	-0.859	V+P+A	9
+kill	-0.859	V	8797
+die	-0.859	V	29387
+crisis	-0.859	N	791
+super pissed	-0.875	R+A	27
+real shame	-0.875	A+N	88
+completely failed	-0.875	R+V	9
+just broke up	-0.875	R+V+T	72
+like hell	-0.875	P+N	642
+dreams are crushed	-0.875	N+V+V	11
+wreckage	-0.875	N	97
+my heart bleeds	-0.891	D+N+V	12
+bodies were found	-0.891	N+V+V	15
+honestly sucks	-0.891	R+V	11
+#dog #cruelty	-0.891	N+N	7
+sadness	-0.891	N	1992
+guilty	-0.891	A	2020
+heart attack	-0.906	N+N	816
+horror	-0.906	N	3845
+hell	-0.906	N	15257
+torture	-0.906	N	879
+failure	-0.906	N	1121
+posioning	-0.906	N	8
+hurting real bad	-0.922	V+R+A	8
+feel like death	-0.922	V+P+N	221
+back in hospital	-0.922	R+P+N	22
+completely sucks	-0.922	R+V	18
+real disaster	-0.922	A+N	11
+committed suicide	-0.938	V+N	96
+absolute agony	-0.938	A+N	20
+devil	-0.938	N	1225
+found dead	-0.953	V+A	96
+feeling like shit	-0.953	V+P+N	209
+#cruelty	-0.953	N	166
+death	-0.953	N	6291
+agony	-0.953	N	405
+dead	-0.953	A	12714
+suicide	-0.953	N	1175
+truly hate	-0.969	R+V	22
+disaster	-0.969	N	788
+like to torture	-0.984	V+P+V	8
+please kill me	-0.984	V+V+O	37
+just died	-0.984	R+V	654
+feel like crap	-0.984	V+P+N	619
+friend died	-0.984	N+V	45
+died	-0.984	V	10969
+dying	-0.984	V	5626
+sucks to live	-1	V+P+V	13
