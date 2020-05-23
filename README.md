@@ -11,7 +11,7 @@ The aim of this project is to provide detailed insights into different movies an
 
 ## Highlights
 
-- ***1000+ movie scripts were scraped from IMSDB Database and segmented into SCENE LOCATIONS/NAMES, SCENE ACTIONS, SCENE CHARACTERS AND SCENE DIALOGUES.
+- ***1000+ movie scripts were scraped from IMSDB Database and segmented into SCENE LOCATIONS/NAMES, SCENE ACTIONS, SCENE CHARACTERS AND SCENE DIALOGUES.***
 
 - ***20 Movies Script Visualizations (based on in-depth analysis) were done, these scripts were Randomly chosen from the 1000+ movie script I segmented to TEST the authenticity of the Movie Script Analytical Algorithm***
 
