@@ -95,7 +95,7 @@ This is because the plotly graphs cannot be viewed in github.
 
 ***python modules for this project:***
 
-imsbd_moviescript_scraper_AND_Scene_Segmentation.py,  -- scraped html text from IMSDB database and segmented Movie into scenes, 
+`imsbd_moviescript_scraper_AND_Scene_Segmentation.py`,  -- scraped html text from IMSDB database and segmented Movie into scenes, 
 
 dialogue_appearance.py --- dialogue appearances,
 
