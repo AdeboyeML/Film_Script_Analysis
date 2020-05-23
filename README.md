@@ -10,7 +10,10 @@ The aim of this project is to provide detailed insights into different movies an
 ![Sample Output][image1]
 
 ## Highlights
-- ***20 Movies Script Visualizations were done, these scripts were Randomly chosen from the 1000+ movie script I segmented to TEST the authenticity of the Movie Script Analytical Algorithm***
+
+- ***1000+ movie scripts were scraped from IMSDB Database and segmented into SCENE LOCATIONS/NAMES, SCENE ACTIONS, SCENE CHARACTERS AND SCENE DIALOGUES.
+
+- ***20 Movies Script Visualizations (based on in-depth analysis) were done, these scripts were Randomly chosen from the 1000+ movie script I segmented to TEST the authenticity of the Movie Script Analytical Algorithm***
 
 ***- Highly recommended for visualization:***  The graphs/plots for the 20 Movie Scripts can be viewed using this link: 
 
