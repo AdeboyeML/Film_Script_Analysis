@@ -90,15 +90,23 @@ This is because the plotly graphs cannot be viewed in github.
 
 
 
-***python modules for this project: 
-imsbd_moviescript_scraper_AND_Scene_Segmentation.py,  -- scraped html text from IMSDB database and segmented Movie into scenes 
-dialogue_appearance.py, --- dialogue appearances
-characters_extract.py, --- extract characters and visualize the number of times they appeared
-xter_interaction.py,   ---- visualize character intercation mapping
-characters_mt.py,  --- character mentions 
-emotions.py,  --- Emotional arcs and sentiment analysis on movie and the script
-movie_info.py, --- Movie information e.g scene location, time of day ccurences for each scenes  
-gend_distribution_plot.py  --- Gender distribution***
+***python modules for this project:***
+
+imsbd_moviescript_scraper_AND_Scene_Segmentation.py,  -- scraped html text from IMSDB database and segmented Movie into scenes, 
+
+dialogue_appearance.py --- dialogue appearances,
+
+characters_extract.py --- extract characters and visualize the number of times they appeared,
+
+xter_interaction.py   ---- visualize character intercation mapping,
+
+characters_mt.py  --- character mentions, 
+
+emotions.py  --- Emotional arcs and sentiment analysis on movie and the script,
+
+movie_info.py --- Movie information e.g scene location, time of day ccurences for each scenes,
+
+gend_distribution_plot.py  --- Gender distribution.
 
 
 
