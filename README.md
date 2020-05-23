@@ -1,9 +1,56 @@
 # Film_Script_Analysis
 
-The aim of this project is to provide detailed insights into different movies analyzed focusing on the characters, their dialogues, scene locations, emotional and sentiment analysis of the whole movie and the individual characters, character's interaction with one another and finally gender distribution in the each movie analyzed.
+The aim of this project is to provide detailed insights into different movies analyzed **focusing on the characters, their dialogues, scene locations, emotional and sentiment analysis of the whole movie and the individual characters, character's interaction with one another and finally gender distribution in the each movie analyzed.**
 
 ## Highlights
-- ***20 Movies Script Visualizations were done, these scripts were chosen from the 1000+ movie script I segmented ***
+- ***20 Movies Script Visualizations were done, these scripts were Randomly chosen from the 1000+ movie script I segmented to TEST the authenticity of the Movie Script Analytical Algorithm***
+
+- **The graphs/plots for the 20 Movie Scripts can be viewed using this link: 
+
+- **[A Prayer Before Dawn ](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/A-Prayer-Before-Dawn_Movie_Analysis.ipynb),**
+
+- **[Alien vs Predator](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Alien_vs_Predator_Movie_Analysis.ipynb),**
+
+- **[American Pie](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/American-Pie_Movie_Analysis.ipynb),**
+
+- **[Antz](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Antz_Movie_Analysis.ipynb),**
+
+- **[Badlands](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Badlands_Movie_Analysis.ipynb),**
+
+- **[Blue Velvet](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Blue_Velvet_Movie_Analysis.ipynb),**
+
+- **[Bourne Identity](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Bourne_Identity_Movie_Analysis.ipynb),**
+
+- **[Code of Silence](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Code_of_Silence_Movie_Analysis.ipynb),**
+
+- **[Guardian of the galaxy Volume 2](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Guardian_of_the_galaxy_vol2_Movie_analysis.ipynb),**
+
+- **[Indiana Jones IV](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Indiana_Jones_IV_Movie_Analysis.ipynb),**
+
+- **[Inventing the Abbots](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Inventing_the_Abbots_Movie_Analysis.ipynb),**
+
+- **[John Q](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/John_Q_Movie_Analysis.ipynb),**
+
+- **[Little Athens](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Little_Athens_Movie_Analysis.ipynb),**
+
+- **[Machine Gun Preacher](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Machine_Gun_Preacher_Movie_Analysis.ipynb),**
+
+- **[Man on fire](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Man_on_fire_Movie_Analysis.ipynb),**
+
+- **[Platoon](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Platoon_Movie_Analysis.ipynb),**
+
+- **[Sleepy Hollow](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Sleepy_Hollow_Movie_Analysis.ipynb),**
+
+- **[Social Network](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Social_Network_Movie_Analysis.ipynb),**
+
+- **[Star wars (The Empire Strikes Back)](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Star-Wars-The-Empire-Strikes-Back_Movie_Analysis.ipynb),**
+
+- **[Wild Wild West](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/Wild_Wild_West_Movie_Analysis.ipynb),**
+
+
+This is because the plotly graphs cannot be viewed in github.
+
+
 
 # To actualize this project, the following objectives were executed sequentially:
 
