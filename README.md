@@ -85,7 +85,10 @@ This is because the plotly graphs cannot be viewed in github.
 8. Additional Scene Informations --> Exact Scene Locations, Scenes with dialogs and no dialogs, Scenes that occurred during the Day or in the Night, Scenes location based on Outdoor or Indoor appearances.
 
 
-9. Gender Distribution in the movie
+9. Gender Distribution in the movie.
+
+
+
 
 
 
@@ -107,6 +110,8 @@ emotions.py  --- Emotional arcs and sentiment analysis on movie and the script,
 movie_info.py --- Movie information e.g scene location, time of day ccurences for each scenes,
 
 gend_distribution_plot.py  --- Gender distribution.
+
+
 
 
 
