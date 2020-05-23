@@ -95,4 +95,4 @@ This is because the plotly graphs cannot be viewed in github.
 
 
 
-Tools: Python libraries
+Tools: Python libraries: pandas, numpy, Regular expression (Regex)--> Regex the major Engine for text cleaning and Movie Scene Segmentation, plotly, nltk, seaborn, networkx
