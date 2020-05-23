@@ -5,7 +5,7 @@ The aim of this project is to provide detailed insights into different movies an
 ## Highlights
 - ***20 Movies Script Visualizations were done, these scripts were Randomly chosen from the 1000+ movie script I segmented to TEST the authenticity of the Movie Script Analytical Algorithm***
 
-***- Higly recommended for visualization:***  The graphs/plots for the 20 Movie Scripts can be viewed using this link: 
+***- Highly recommended for visualization:***  The graphs/plots for the 20 Movie Scripts can be viewed using this link: 
 
 - **[A Prayer Before Dawn ](https://nbviewer.jupyter.org/github/AdeboyeML/Film_Script_Analysis/blob/e2fec93a9fa163b49893788b46cecac29c51078a/A-Prayer-Before-Dawn_Movie_Analysis.ipynb),**
 
